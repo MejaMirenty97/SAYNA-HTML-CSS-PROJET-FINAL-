@@ -1,0 +1,273 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+/* Header */
+
+nav {
+    background-color: #d35649;
+}
+
+.logo {
+    width: 50%;
+    margin-left: 0px;
+    margin-right: 30vh;
+}
+
+.hov>ul>li>a :hover {
+    color: #98a5a5;
+}
+
+.liste1 a:hover {
+    color: #98a5a5;
+}
+
+.lien:hover {
+    color: #98a5a5;
+}
+
+
+/* Main1 */
+
+.block1 {
+    background-image: url(group-1.jpg);
+    background-size: cover;
+    background-position-y: 104vh;
+    height: 60vh;
+}
+
+.events {
+    text-align: center;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1px;
+    font-weight: bold;
+    color: white;
+}
+
+.events h1 {
+    font-size: 4vh;
+    font-stretch: semi-condensed;
+    padding-top: 10vh;
+    text-shadow: 2px 2px 2px black;
+    color: #eee;
+}
+
+.box {
+    border: 0px;
+    border-radius: 1vh;
+    margin: 5px 300px 5px;
+    margin-bottom: 50px;
+    padding: 10px;
+    height: 20vh;
+    background-color: white;
+    opacity: 80%;
+    position: relative;
+}
+
+.lbel {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: small;
+}
+
+.spn {
+    opacity: 100%;
+}
+
+.inpt {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: small;
+}
+
+.how {
+    opacity: 80%;
+    font-size: 2vh;
+    font-weight: bold;
+    color: black;
+    padding: 10px 5px 10px 5px;
+    border-radius: 8%;
+}
+
+
+/* Main2 */
+
+.block2 {
+    height: 50vh;
+}
+
+.steps {
+    text-align: center;
+    justify-content: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 1px;
+    font-weight: lighter;
+    color: red;
+}
+
+.steps h1 {
+    font-size: 4vh;
+    font-stretch: semi-condensed;
+    padding-top: 5vh;
+}
+
+.boîte1 p {
+    font-size: 1.8vh;
+    font-stretch: extra-condensed;
+}
+
+.boîte2 p {
+    font-size: 1.8vh;
+    font-stretch: extra-condensed;
+}
+
+
+/* Main3 */
+
+.block3 {
+    height: 50vh;
+    background-color: #d35649;
+}
+
+.partie1 {
+    padding-left: 5vh;
+}
+
+.partie1 h5 {
+    font-size: 4vh;
+    font-stretch: semi-condensed;
+    padding-top: 5vh;
+}
+
+.partie1 p {
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 8vh;
+    font-size: 2.8vh;
+    font-stretch: normal;
+}
+
+.boutton1 {
+    color: #d35649;
+    font-size: smaller;
+    margin-top: 2vh;
+}
+
+.partie2 {
+    padding-top: 5vh;
+    padding-right: 5vh;
+}
+
+.partie2 img {
+    border-radius: 100%;
+}
+
+
+/* Main4 */
+
+.block4 {
+    height: 50vh;
+    background-color: #98a5a5;
+}
+
+.partie3 {
+    padding-left: 5vh;
+}
+
+.partie3 h5 {
+    font-size: 4vh;
+    font-stretch: semi-condensed;
+    padding-top: 5vh;
+}
+
+.partie3 p {
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 8vh;
+    font-size: 2.8vh;
+    font-stretch: normal;
+}
+
+.boutton2 {
+    color: #98a5a5;
+    font-size: smaller;
+    margin-top: 2vh;
+}
+
+.partie4 {
+    padding-top: 5vh;
+    padding-right: 5vh;
+}
+
+.partie4 img {
+    border-radius: 100%;
+}
+
+
+/* Main5 */
+
+.block5 {
+    height: 50vh;
+    background-color: #509bd7;
+}
+
+.partie5 {
+    padding-left: 5vh;
+}
+
+.partie5 h5 {
+    font-size: 4vh;
+    font-stretch: semi-condensed;
+    padding-top: 5vh;
+}
+
+.partie5 p {
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 8vh;
+    font-size: 2.8vh;
+    font-stretch: normal;
+}
+
+.partie6 {
+    padding-top: 5vh;
+    padding-right: 5vh;
+}
+
+.partie6 img {
+    border-radius: 100%;
+}
+
+
+/* partie footer */
+
+.bas {
+    background-color: black;
+}
+
+.ancre {
+    border-top: 1 solid white;
+}
+
+.forme {
+    background-color: black;
+    border: gray;
+}
+
+.button {
+    border-radius: 1vh;
+    background-color: #444;
+    padding: 10px 20px 10px 20px;
+    border: white;
+    color: white;
+    font-size: small;
+}
+
+footer {
+    background-color: #1f1f1f;
+}
+
+.image img {
+    color: white;
+}

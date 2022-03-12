@@ -1,0 +1,107 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+nav {
+    background-color: #d35649;
+}
+
+.logo {
+    width: 50%;
+    margin-left: 0px;
+    margin-right: 30vh;
+}
+
+.hov>ul>li>a :hover {
+    color: #98a5a5;
+}
+
+.liste1 a:hover {
+    color: #98a5a5;
+}
+
+.lien:hover {
+    color: #98a5a5;
+}
+
+
+/* Partie sunny beach */
+
+.Beach {
+    height: 90vh;
+    margin-top: 15vh;
+    margin-left: 5vh;
+    border: 2px black;
+    box-shadow: 10px 10px 10px black;
+}
+
+.Sunny {
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 5px 100px 5px 100px;
+    margin-bottom: 10px;
+    box-shadow: 2px 2px 2px black;
+}
+
+.Sunny p {
+    font-weight: 500;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.boutn {
+    padding: 5px 4px 5px 4px;
+    border: none;
+    background-color: #509bd7;
+    color: #fff;
+}
+
+.Day h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 6vh;
+}
+
+.sunny1 {
+    color: #509bd7;
+    font-weight: bold;
+}
+
+
+/* i-Frame */
+
+.frame {
+    height: 105vh;
+}
+
+
+/* partie footer */
+
+.bas {
+    background-color: black;
+}
+
+.ancre {
+    border-top: 1 solid white;
+}
+
+.forme {
+    background-color: black;
+    border: gray;
+}
+
+.button {
+    border-radius: 1vh;
+    background-color: #444;
+    padding: 10px 20px 10px 20px;
+    border: white;
+    color: white;
+    font-size: small;
+}
+
+footer {
+    background-color: #1f1f1f;
+}
+
+.image img {
+    color: white;
+}

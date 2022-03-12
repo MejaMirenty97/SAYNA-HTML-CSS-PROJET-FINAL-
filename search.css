@@ -1,0 +1,97 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+nav {
+    background-color: #d35649;
+}
+
+.logo {
+    width: 50%;
+    margin-left: 0px;
+    margin-right: 30vh;
+}
+
+.hov>ul>li>a :hover {
+    color: #98a5a5;
+}
+
+.liste1 a:hover {
+    color: #98a5a5;
+}
+
+.lien:hover {
+    color: #98a5a5;
+}
+
+
+/* biloute :) */
+
+.bilout1 {
+    height: 60vh;
+}
+
+.inp {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.inp input {
+    border-radius: 5%;
+}
+
+
+/* photo lien */
+
+#figure {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+#fig1 {
+    background-color: #d35649;
+}
+
+#fig2 {
+    background-color: #d35649;
+}
+
+#fig3 {
+    background-color: #d35649;
+}
+
+
+/* partie footer */
+
+.bas {
+    background-color: black;
+}
+
+.ancre {
+    border-top: 1 solid white;
+}
+
+.forme {
+    background-color: black;
+    border: gray;
+}
+
+.button {
+    border-radius: 1vh;
+    background-color: #444;
+    padding: 10px 20px 10px 20px;
+    border: white;
+    color: white;
+    font-size: small;
+}
+
+footer {
+    background-color: #1f1f1f;
+}
+
+.image img {
+    color: white;
+}
